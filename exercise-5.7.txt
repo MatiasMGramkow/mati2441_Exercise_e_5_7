@@ -1,0 +1,3 @@
+# exercise 5.7
+
+SELECT * FROM hotel;
